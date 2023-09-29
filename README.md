@@ -17,4 +17,14 @@
 <img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
+<br/>
 
+
+Apaixonada pelo mundo da programação. Estou concluindo meu curso de desenvolvimento de sistemas. Estou atualmente concluindo meu curso no SENAI Suíço-Brasileiro, onde aprimorei minhas habilidades técnicas e aprendi a aplicar meus conhecimentos de programação.
+
+🕹️ Meu próximo grande desafio? Desenvolvimento de jogos! 
+
+🎮 Tenho um fascínio especial por criar mundos interativos e experiências envolventes para os jogadores. Acredito que minha experiência em desenvolvimento de sistemas e minha paixão por jogos me posicionam de forma única para explorar este emocionante campo.
+
+
+✨ Obrigado por visitar meu perfil. Mal posso esperar para explorar novos horizontes no mundo do desenvolvimento de jogos e compartilhar minha jornada com a comunidade de tecnologia!
