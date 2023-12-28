@@ -1,5 +1,4 @@
-### 👾 Olá! Me chamo Nalanda, tenho 19 anos. 
-
+### 👾 Olá! Me chamo Nalanda Silveira Ventura. 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalanda-ventura-60a49324a/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nalanda_ventura/?next=%2F)
