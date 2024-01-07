@@ -21,7 +21,7 @@
 <br/>
 
 
-Apaixonada pelo mundo da programação. Estou concluindo meu curso de desenvolvimento de sistemas. Estou atualmente concluindo meu curso no SENAI Suíço-Brasileiro, onde aprimorei minhas habilidades técnicas e aprendi a aplicar meus conhecimentos de programação.
+Apaixonada pelo mundo da programação. Estou concluindo meu curso de desenvolvimento de sistemas. Conclui atualmente meu curso no SENAI Suíço-Brasileiro, onde aprimorei minhas habilidades técnicas e aprendi a aplicar meus conhecimentos de programação.
 
 🕹️ Meu próximo grande desafio? Desenvolvimento de jogos! 
 
